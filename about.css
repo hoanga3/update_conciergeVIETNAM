@@ -1,0 +1,117 @@
+#header{
+	color:white;
+	font-size: 25px;
+	float:left;
+	text-align:center;
+	padding-top: 50px;
+	padding-left : 150px;
+
+}
+
+#menu{
+	position: fixed;
+	top:0px;
+	width: 100%;
+	height:auto;
+	padding:0px solid:red;
+}
+#menu ul{
+	padding-bottom: 0px;
+	padding-top: 2 0px;
+
+    list-style-type: none;
+    text-align: center;
+    background-color: black;
+}
+#menu ul li{
+	
+	padding-top:0px;
+	padding-left:4%;
+    color:blue;
+    display: inline-block;
+    width: 13%;
+    height :120px;
+    line-height:inline-block
+   
+}
+#menu ul li a{
+
+	padding-top: 35%;
+	text-align: center;
+color:white;
+text-decoration: none;
+display: block;
+height:auto;
+
+}
+#menu ul li a:hover{
+	height:100%;
+	background-color: white;
+	color:#333;
+
+}
+#story{
+	margin-top:5%;
+	margin-left:15%;
+	margin-right:15%;
+}
+#people{
+	float:left;
+	margin-top:5%;
+	margin-left:15%;
+	margin-right:15%;
+}
+
+#people2{
+	border-top: 3px solid #E6E6E6;
+	float:left;
+	padding-top:7% solid red;
+	margin-left:14%;
+	margin-right:13%;
+}
+#ft1{
+	padding-top: 2.5%;
+	background-color: black;
+	padding-left: 17%;
+	color:white;
+	font-size: 14px;
+}
+#ft2{
+	padding-top: 2.5%;
+	background-color: black;
+	padding-left: 7%;
+	color:white;
+	font-size: 14px;
+}
+#ft2 a{
+color:white;
+text-decoration:  none;
+}
+#ft2 a:hover{
+	background-color: gray;
+	color:white;
+}
+#ft3{
+	padding-top: 2.5%;
+	background-color: black;
+	padding-left: 7%;
+	color:white;
+	font-size: 16px;
+
+}
+#ft3 a{
+color:white;
+text-decoration:  none;
+}
+#ft3 a:hover{
+	background-color: gray;
+	color:white;
+}
+#ft4{
+	padding-top: 3%;
+	padding-left: 16%;
+
+}
+#icon img{
+	padding-left:10px;
+}
